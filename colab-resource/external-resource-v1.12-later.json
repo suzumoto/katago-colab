@@ -2,7 +2,7 @@
     "katago": {
         "bin": "https://github.com/lightvector/KataGo/archive/refs/tags/v1.13.2.zip",
         "libzip": "libzip5",
-        "weight": "https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b18c384nbt-uec.bin.gz"
+        "weight": "https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b18c384nbt-s6981484800-d3524616345.bin.gz"
     },
     "ngrok": "https://github.com/mildinvestor/katago-colab/releases/download/v1.12.4-alpha/ngrok"
 }
